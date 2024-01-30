@@ -9,13 +9,13 @@
 
 ###### API da OpenAI
 
-###### &nbsp;&nbsp;&nbsp; [Configuração_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/2_Configura%C3%A7%C3%A3o_da_API.ipynb)
+###### &nbsp;&nbsp;&nbsp; [API_OpenAI.ipnyb](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/notebooks/2024_Palestra_EY_API_OpenAI.ipynb)
 
 ###### LangChain
-###### &nbsp;&nbsp;&nbsp; [Como_utilizar_API.ipnyb](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/colabs/3_Como_utilizar_a_API.ipynb)
+###### &nbsp;&nbsp;&nbsp; [LangChain.ipnyb](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/notebooks/2024_Palestra_EY_LangChain.ipynb)
 
 ### `Slides`
 
 ###### Palestra
 
-###### &nbsp;&nbsp;&nbsp; [Introdução.pptx](https://github.com/adalves-ufabc/2023-SBBD-Minicurso/blob/main/slides/1.%20API%20OpenAI%20-%20Introdu%C3%A7%C3%A3o.pptx)
+###### &nbsp;&nbsp;&nbsp; [2024_Palestra EY.pptx](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/slides/2024_Palestra_EY.pptx)
