@@ -1,6 +1,7 @@
 # PALESTRA na Ernst & Young 
 ## https://www.ey.com/pt_br
-![image](https://github.com/adalves-ufabc/2024-Palestra-EY/assets/72447915/f38d1f4c-74e1-41fa-b6e3-178ac4a71fe0)
+![image](https://github.com/adalves-ufabc/2024-Palestra-EY/assets/72447915/2f63b9e8-3ff4-4d8c-a024-734448159d3a)
+
 
 
 Prof. Alexandre Donizeti Alves
