@@ -9,13 +9,13 @@
 
 ###### API da OpenAI
 
-###### &nbsp;&nbsp;&nbsp; [API_OpenAI.ipnyb](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/notebooks/2024_Palestra_EY_API_OpenAI.ipynb)
+###### &nbsp;&nbsp;&nbsp; [2024 Palestra EY - API OpenAI.ipynb](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/notebooks/2024_Palestra_EY_API_OpenAI.ipynb)
 
 ###### LangChain
-###### &nbsp;&nbsp;&nbsp; [LangChain.ipnyb](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/notebooks/2024_Palestra_EY_LangChain.ipynb)
+###### &nbsp;&nbsp;&nbsp; [2024 Palestra EY - LangChain.ipynb](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/notebooks/2024_Palestra_EY_LangChain.ipynb)
 
 ### `Slides`
 
 ###### Palestra
 
-###### &nbsp;&nbsp;&nbsp; [2024_Palestra EY.pptx](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/slides/2024_Palestra_EY.pptx)
+###### &nbsp;&nbsp;&nbsp; [2024 Palestra EY.pptx](https://github.com/adalves-ufabc/2024-Palestra-EY/blob/main/slides/2024_Palestra_EY.pptx)
