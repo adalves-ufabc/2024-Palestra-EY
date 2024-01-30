@@ -1,3 +1,10 @@
+# PALESTRA na Ernst & Young [https://www.ey.com/pt_br]
+## LangChain em ação:o maestro digital para soluções com IA Generativa
+![image](https://github.com/adalves-ufabc/2024-Palestra-EY/assets/72447915/f38d1f4c-74e1-41fa-b6e3-178ac4a71fe0)
+
+
+Prof. Alexandre Donizeti Alves
+
 Universidade Federal do ABC [UFABC]
 
 Centro de Matemática, Computação e Cognição [CMCC]
@@ -5,7 +12,6 @@ Centro de Matemática, Computação e Cognição [CMCC]
 E-mail: alexandre.donizeti@ufabc.edu.br
 <br>
 
-<br>
 
 
 
