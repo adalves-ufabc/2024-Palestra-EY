@@ -1,20 +1,8 @@
 # PALESTRA na Ernst & Young 
 ## https://www.ey.com/pt_br
-![image](https://github.com/adalves-ufabc/2024-Palestra-EY/assets/72447915/2f63b9e8-3ff4-4d8c-a024-734448159d3a)
+![image](https://github.com/adalves-ufabc/2024-Palestra-EY/assets/72447915/570a7012-2048-483c-a6dc-332957aaf157)
 
-
-
-Prof. Alexandre Donizeti Alves
-
-Universidade Federal do ABC [UFABC]
-
-Centro de Matemática, Computação e Cognição [CMCC]
-
-E-mail: alexandre.donizeti@ufabc.edu.br
 <br>
-
-
-
 
 ### `Notebooks no Google Colab` 
 
